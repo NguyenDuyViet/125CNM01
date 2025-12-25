@@ -29,15 +29,15 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-# ===== Name Project =====
-/.vs
-/bin/
-/obj/
-/*.user
-/*.suo
-/*.csproj.user
-/Properties/PublishProfiles/
-/Properties/ServiceDependencies/
+# ===== ElectroShop =====
+ElectroShop/.vs
+ElectroShop/bin/
+ElectroShop/obj/
+ElectroShop/*.user
+ElectroShop/*.suo
+ElectroShop/*.csproj.user
+ElectroShop/Properties/PublishProfiles/
+ElectroShop/Properties/ServiceDependencies/
 # Alternatively, ignore all files in image directory
 
 # ===== Visual Studio files =====
